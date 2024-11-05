@@ -10,7 +10,7 @@ I am a passionate python backend software developer in **web development**
 
 - **Languages**: Python, Javascript, TypeScript, HTML/CSS
 - **Frameworks**: React, Node.js, Flask, Django
-- **Databases**: MySQL, MOngoDB
+- **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, Jenkins, VS Code
 
 ### Currently learning 
