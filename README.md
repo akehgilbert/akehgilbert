@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I am Gilbert Akeh
+# I am Gilbert Akeh
 Welcome to my GitHub profile
 
 ## About me
