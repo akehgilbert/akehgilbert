@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**akehgilbert/akehgilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I am Gilbert Akeh
+Welcome to my GitHub profile
 
-Here are some ideas to get you started:
+## About me
+I am a passionate python backend software developer in **web development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+
+- **Languages**: Python, Javascript, TypeScript, HTML/CSS
+- **Frameworks**: React, Node.js, Flask, Django
+- **Databases**: MySQL, MOngoDB
+- **Tools**: Git, Docker, Jenkins, VS Code
+
+### Currently learning 
+- **Cloud computing**: AWS, Google Cloud
+- **AI/ML**: Deep Learning, TensorFlow
+
+### How to reach me
+
+- Email: [akehgilbert@yahoo.com](mailto:akehgilbert@yahoo.com)
+- LinkedIn: [akehgilbert](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
